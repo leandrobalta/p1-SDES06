@@ -1,0 +1,5 @@
+Nome|Matricula
+Leandro Balta Braga|2022004260
+Pedro da Silva Furlaneto|2022008537
+Gabriel de Souza Ribeiro|2022002650
+João Vitor Batista da Silva|2022002471
