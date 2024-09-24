@@ -1,0 +1,24 @@
+
+Estimativa de Tamanho e Esforço para o Projeto de Geração de Grade Horária
+
+Número de Atores e Entidades envolvidas nos requisitos:
+- Curso: 1
+- Disciplina: 1
+- Professor: 1
+- Sala: 1
+- Instituicao: 1
+- Usuario: 1
+- Departamento: 1
+- Regras de Alocação: 1
+- Sistema: 1
+
+Total de Atores e Entidades: 9
+
+Fórmula usada para calcular a estimativa de tamanho:
+UCP = Número de Atores e Entidades * Fator Técnico * Fator Ambiental
+UCP = 9 * 1.2 * 0.9
+UCP = 9.72
+
+Estimativa de Esforço:
+1 UCP = 3 horas de esforço
+Esforço Total = 9.72 * 3 = 29.16 horas
